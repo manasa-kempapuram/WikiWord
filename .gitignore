@@ -1,0 +1,18 @@
+# Terraform
+infra/.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+
+# OS / Editor files
+.DS_Store
+*.swp
+*.idea/
+*.vscode/
+
+# Python / Node / etc (if your game has it)
+__pycache__/
+*.pyc
+node_modules/
+
+
